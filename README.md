@@ -18,11 +18,13 @@ The project uses an e-commerce orders dataset containing information such as:
 
 - Order ID
 - Customer details
-- Product details
-- Quantity
-- Price
-- Order status
+- City
+- product
 - Order date
+- Quantity
+- UnitPrice
+- Order status
+-Total Amount 
 - Other order-related information
 
 ## Analysis Performed
